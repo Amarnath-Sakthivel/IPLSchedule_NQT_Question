@@ -23,8 +23,8 @@ public class IPLSchedule {
 		}	
 	}
 	public static void main(String[] args) {
-		IPLSchedule(new String[] { "Chennai", "Mumbai",  "Delhi", "Bangalore", "Punjab", "Rajastan", "Kolkatha", "Hyderbad" });
-//		IPLSchedule(new String[] { "Chennai", "Mumbai",  "Delhi", "Q" });
+		IPLSchedule(new String[] { "Chennai", "Mumbai",  "Delhi", "Bangalore", "Q",  "Punjab", "Rajastan", "Kolkatha", "Hyderbad" });
+		IPLSchedule(new String[] { "Chennai", "Mumbai",  "Delhi", "Q" });
 	}
 
 }
